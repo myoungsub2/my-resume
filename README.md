@@ -1,50 +1,36 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+</br>
 
-  <div>
-    <h1 style="margin-bottom:0;">신명섭</h1>
-    <h3 style="margin-top:5px;">성균관대학교 정보통계학과</h3>
-    <p style="margin-top:10px;">
-      📧 <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-      📞 010-1234-5678<br>
-      💻 <a href="https://github.com/yourgithub" target="_blank">github.com/yourgithub</a>
-    </p>
-  </div>
+# Myoungsub Shin
+**Dankook University, Department of Information and Statistics** </br>
+**E-mail** : ms4377784@gmail.com </br>
+**Phone** : 010-8351-5153 </br>
+**Git-hub** : https://github.com/myoungsub2
 
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sungkyunkwan_University_logo.svg" 
-         alt="Sungkyunkwan University Logo" width="120">
-  </div>
-
-</div>
-# Myungseob Shin
-단국대학교, 정보통계학과
-
-010-8351-5153 | Yongin, Korea
-[GitHub](https://github.com/myungseobshin)
-
----
+</br>
 
 ## Profile
-단국대학교 정보통계학과에 재학 중이며, 데이터를 분석해 숨어 있는 패턴을 찾아내고, 이를 토대로 변화를 예측하는 일에 관심이 있습니다. 
-특히 날씨와 관련된 다양한 데이터를 분석해 변화를 예측하거나, 이상 징후를 찾아내는 과정에 흥미를 가지고 있습니다.  
-Python과 R을 이용해 데이터를 정리하고 통계적으로 분석하는 데 익숙하며,  
-정확한 예측과 데이터 기반 의사결정으로 국민 생활에 도움이 되는 기상 정보를 제공하는 일을 하고 싶습니다.
+단국대학교 정보통계학과에 재학 중이며, 데이터를 분석해 숨겨진 패턴을 찾아내고 그 패턴으로 앞으로의 변화를 예측하는 일에 관심을 가지고 있습니다. 특히 날씨와 관련된 다양한 기상 데이터를 활용해 변화의 흐름을 파악하고 이상 징후를 탐지하는 과정에 흥미를 가지고 있습니다.  
+Python과 R을 사용해 데이터를 정리하고 통계 기법을 이용해 결과를 해석하는데 익숙합니다. 
+이를 바탕으로 **정확한 예측**과 **데이터 기반 의사결정**을 지원하여 **국민 생활에 도움이 되는** 기상 정보를 전달하고 싶습니다.
 
 ---
+
+</br>
 
 ## Education
-**단국대학교 (Dankok University)** — 정보통계학과  
+**단국대학교 (Dankok University)** 정보통계학과  
 2021.03 - 2027.02 (졸업예정) 
+
 - **주요 이수 과목**
   - **회귀분석:** 여러 요인 간의 관계를 분석하고 결과를 예측하는 방법을 학습함  
-  - **시계열분석:** 시간의 흐름에 따라 변하는 데이터를 분석하여 추세와 변동을 예측하는 기법을 익힘  
-  - **통계컴퓨팅:** Python과 R을 활용하여 데이터를 효율적으로 다루고 분석 결과를 시각적으로 표현함  
-  - **데이터마이닝:** 방대한 데이터 속에서 의미 있는 패턴을 찾아내어 의사결정에 활용하는 과정을 실습함  
-  - **머신러닝:** 다양한 데이터 예측 기법을 비교·분석하며 실제 문제 해결에 적용하는 방법을 배움  
-- 기상 및 환경 데이터를 활용하여 **변화의 원인을 분석하고 미래 경향을 예측하는 실습**을 진행함  
-- 데이터를 기반으로 **정확한 판단을 내릴 수 있는 분석 역량과 문제 해결 능력**을 키움
-
+  - **시계열분석:** 시간의 흐름에 따라 변하는 데이터를 분석하여 추세와 변동을 예측하는 기법을 습득함  
+  - **통계컴퓨팅:** Python과 R을 활용하여 데이터를 효율적으로 다루고 분석 결과를 시각적으로 표현함
+  - **데이터마이닝:** 방대한 데이터 속에서 의미 있는 패턴을 추출하고 의사결정에 활용하는 경험을 쌓음   
+  - **머신러닝:** 다양한 데이터 예측 기법을 비교·분석하며 실제 문제 해결에 적용하는 방법을 배움
+   
 ---
+
+</br>
 
 ## Projects & Experience
 **2025 날씨 빅데이터 콘테스트, 기상청 (2025.07 – 2025.09)**
@@ -72,9 +58,12 @@ Python과 R을 이용해 데이터를 정리하고 통계적으로 분석하는 
   - 분석 과정을 체계적으로 정리해 **학기 우수 프로젝트로 선정**  
   - 팀 내 협업과 보고서 작성 과정을 통해 실무형 분석 경험을 쌓음
 
+
 ## Other Experience
 
 ---
+
+</br>
 
 ## Skills
 - **프로그래밍 언어:** Python, R, C++  
@@ -93,6 +82,8 @@ Python과 R을 이용해 데이터를 정리하고 통계적으로 분석하는 
   (데이터 검증 및 협업 문서 관리)
 ---
 
+</br>
+
 ## Certificates
 
 | 자격증 | 발급기관 | 취득년도 | 주요 내용 |
@@ -101,3 +92,7 @@ Python과 R을 이용해 데이터를 정리하고 통계적으로 분석하는 
 | **ADsP (데이터분석 준전문가)** | 한국데이터산업진흥원 | 2025 | 데이터 분석 기초 및 통계 해석 능력 검증 |
 | **컴퓨터활용능력 2급** | 대한상공회의소 | 2023 | Excel을 활용한 데이터 처리 및 보고서 작성 |
 | **정보처리기능사** | 한국산업인력공단 | 2021 | 프로그래밍 기초 및 시스템 구조 이해 |
+
+<p align="right">
+  <img src="Logo1.jpeg" width="150" alt="Dankook University Logo">
+</p>
