@@ -9,16 +9,16 @@
 </br>
 
 ## Profile
-단국대학교 정보통계학과에 재학 중이며, 데이터를 분석해 숨겨진 패턴을 찾아내고 그 패턴으로 앞으로의 변화를 예측하는 일에 관심을 가지고 있습니다. 특히 날씨와 관련된 다양한 기상 데이터를 활용해 변화의 흐름을 파악하고 이상 징후를 탐지하는 과정에 흥미를 가지고 있습니다.  
-Python과 R을 사용해 데이터를 정리하고 통계 기법을 이용해 결과를 해석하는데 익숙합니다. 
-이를 바탕으로 **정확한 예측**과 **데이터 기반 의사결정**을 지원하여 **국민 생활에 도움이 되는** 기상 정보를 전달하고 싶습니다.
+단국대학교 정보통계학과에 재학 중이며, 데이터를 분석해 숨겨진 패턴을 찾아내고, 이를 바탕으로 앞으로의 변화를 예측하는 일에 관심이 있습니다.
+특히 날씨와 관련된 다양한 기상 데이터를 다루며 변화의 흐름을 파악하고 이상 징후를 탐지하는 과정에 흥미를 느끼고 있습니다. 또한, 이러한 분석을 위해 Python과 R을 활용해 데이터를 정제 및 분석하고 통계 기법으로 결과를 해석하는 데 익숙합니다.
+이러한 역량을 바탕으로 **정확한 예측과 데이터 기반 의사결정**을 지원하여, **실생활에 도움이 되는** 기상 정보를 제공하고자 합니다.
 
 ---
 
 </br>
 
 ## Education
-**단국대학교 (Dankok University)** 정보통계학과  
+**단국대학교 정보통계학과**   
 2021.03 - 2027.02 (졸업예정) 
 
 - **주요 이수 과목**
@@ -59,7 +59,10 @@ Python과 R을 사용해 데이터를 정리하고 통계 기법을 이용해 �
   - **_습도와 고도가 미세먼지 농도에 가장 큰 영향을 주는 요인_** 으로 나타남  
   - 분석 과정을 체계적으로 정리해 학기 우수 프로젝트로 선정 
   - 팀 내 협업과 보고서 작성 과정을 통해 실무형 분석 경험을 쌓음
-- [코드 보기](https://github.com/myoungsub2/my-resume/blob/main/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%98%88%EC%B8%A1.R)
+     <p align="left">
+       <img src="미세먼지 영향 결과.PNG" width="600" alt="미세먼지에 가장 큰 영향">
+    </p>
+- [Code](https://github.com/myoungsub2/my-resume/blob/main/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%98%88%EC%B8%A1.R)
 
 </br>
 
@@ -75,7 +78,12 @@ Python과 R을 사용해 데이터를 정리하고 통계 기법을 이용해 �
 - **성과**  
   - **_강남·서초·송파 등 유흥 밀집 지역에서 사고율이 높게 나타남_**  
   - 단속이 많은 지역일수록 사고 발생 위험도 높은 경향 확인
-- [코드 보기](https://github.com/myoungsub2/myresume/blob/main/%EC%84%9C%EC%9A%B8%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.ipynb)
+     <p align="left">
+       <img src="서울시 음주운전 결과.PNG" width="600" alt="서울시 음주운전 사고 지도">
+    </p>
+
+- [Code](https://github.com/myoungsub2/myresume/blob/main/%EC%84%9C%EC%9A%B8%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.ipynb)
+
 
 </br>
 
@@ -86,9 +94,9 @@ Python과 R을 사용해 데이터를 정리하고 통계 기법을 이용해 �
   - 최신 기법인 *Soft Pruning using Weight Blending (SPWB)* 과 비교 실험 수행  
   - CIFAR-10 데이터셋을 활용해 정확도와 효율성 분석  
 - **성과**  
-  - **모델 크기 약 60% 감소에도 정확도 손실 미미**  
+  - **_모델 크기 약 60% 감소에도 정확도 손실 미미_**  
   - 최신 기법이 기존 방법보다 **정보 손실을 줄이며 효율성 향상**
-- [코드 보기](https://github.com/myoungsub2/my-resume/blob/main/pruning.ipynb)
+- [Code](https://github.com/myoungsub2/my-resume/blob/main/pruning.ipynb)
 
 ---
 
