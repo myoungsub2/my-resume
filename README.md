@@ -1,7 +1,7 @@
 </br>
 
 # Myoungsub Shin
-**Dankook University, Department of Information and Statistics** </br>
+**Dankook University, Department of Information Statistics** </br>
 **E-mail** : ms4377784@gmail.com </br>
 **Phone** : 010-8351-5153 </br>
 **Git-hub** : https://github.com/myoungsub2
