@@ -1,6 +1,10 @@
 </br>
 
 # Myoungsub Shin
+<p align="left">
+  <img src="증사.jpg" width="150" alt="증명사진">
+</p>
+
 **Dankook University, Department of Information Statistics** </br>
 **E-mail** : ms4377784@gmail.com </br>
 **Phone** : 010-8351-5153 </br>
